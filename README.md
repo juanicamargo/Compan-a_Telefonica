@@ -1,4 +1,4 @@
-#Caso: Compania_Telefonica
-#Grupo: 3
+# Caso: Compania_Telefonica
+Grupo: 3
 
 Descripcion:
